@@ -18,5 +18,7 @@ Veja os projetos publicados por mim:
 
 ## Dashboard (Power BI):
 
-- Dashboard RH Empowerdata: https://bityli.com/xfCi1
-- Dashboard Financeiro de Vendas Empowerdata: https://bityli.com/ei72L
+- Dashboard RH (Empowerdata): https://bityli.com/xfCi1
+- Dashboard Financeiro de Vendas (Empowerdata): https://bityli.com/ei72L
+- Dashboard com Dados da WEB (Udemy): https://bit.ly/361rttD
+- Dashboad de Vendas (Udemy): https://bit.ly/2UGGFtF
