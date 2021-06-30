@@ -2,7 +2,7 @@
 
 Auxiliar de Sistemas
 
-Atualmente atuo como Auxiliar de Sistemas e busco uma recolocação na área de Business Intelligence. Por muitas empresas exigirem experiência na área comecei a buscar por cursos voltados ao Power BI e desde então venho a cada dia aperfeiçoando meus conhecimentos nesta área tão magnífica.
+Atualmente atuo como Auxiliar de Sistemas e busco uma recolocação na área de Business Intelligence. Por muitas empresas exigirem experiência na área comecei a buscar por cursos voltados ao Power BI e desde então venho aperfeiçoando meus conhecimentos nesta área tão magnífica.
 
 **Foco:** Power BI
 
