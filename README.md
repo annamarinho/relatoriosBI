@@ -1,8 +1,11 @@
-![2](https://user-images.githubusercontent.com/44609759/124035396-da137580-d9d2-11eb-9d3a-cc2a5bee92c8.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/annamarinho/relatoriosBI/master/2.png" height="400"width="980" >
+</p>
 
 #  Anna Carolina Marinho da Silva
 
-Auxiliar de Sistemas
+<sub>Auxiliar de Sistemas<sub>
 
 Atualmente atuo como Auxiliar de Sistemas e busco uma recolocação na área de Business Intelligence. Por muitas empresas exigirem experiência na área comecei a buscar por cursos voltados ao Power BI e desde então venho aperfeiçoando meus conhecimentos nesta área tão magnífica.
 
@@ -10,7 +13,7 @@ Atualmente atuo como Auxiliar de Sistemas e busco uma recolocação na área de 
 
 **Link:**
 
-- https://www.linkedin.com/in/anna-marinho/
+* [LinkedIn](https://www.linkedin.com/in/anna-marinho/)
 
 ## Projetos:
 
@@ -20,7 +23,7 @@ Veja os projetos publicados por mim:
 
 ## Dashboard (Power BI):
 
-- Dashboard RH (Empowerdata): https://bityli.com/xfCi1
-- Dashboard Financeiro de Vendas (Empowerdata): https://bityli.com/ei72L
-- Dashboard com Dados da WEB (Udemy): https://bit.ly/361rttD
-- Dashboad de Vendas (Udemy): https://bit.ly/2UGGFtF
+- **Dashboard RH (Empowerdata):** https://bityli.com/xfCi1
+- **Dashboard Financeiro de Vendas (Empowerdata):** https://bityli.com/ei72L
+- **Dashboard com Dados da WEB (Udemy):** https://bit.ly/361rttD
+- **Dashboad de Vendas (Udemy):** https://bit.ly/2UGGFtF
