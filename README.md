@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/annamarinho/relatoriosBI/master/2.png" height="400"width="980" >
+  <img src="https://raw.githubusercontent.com/annamarinho/relatoriosBI/master/banner.png">
 </p>
 
 #  Anna Carolina Marinho da Silva
