@@ -1,3 +1,5 @@
+![2](https://user-images.githubusercontent.com/44609759/124035396-da137580-d9d2-11eb-9d3a-cc2a5bee92c8.png)
+
 #  Anna Carolina Marinho da Silva
 
 Auxiliar de Sistemas
