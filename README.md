@@ -5,9 +5,9 @@
 
 #  Anna Carolina Marinho da Silva
 
-<sub>Auxiliar de Sistemas<sub>
+<sub>Analista de Implantação<sub>
 
-Atualmente atuo como Auxiliar de Sistemas e busco uma recolocação na área de Business Intelligence. Por muitas empresas exigirem experiência na área comecei a buscar por cursos voltados ao Power BI e desde então venho aperfeiçoando meus conhecimentos nesta área tão magnífica.
+Atualmente atuo como Analista de Implantação e busco uma recolocação na área de Business Intelligence. Por muitas empresas exigirem experiência na área comecei a buscar por cursos voltados ao Power BI e desde então venho aperfeiçoando meus conhecimentos nesta área tão magnífica.
 
 **Foco:** Power BI
 
