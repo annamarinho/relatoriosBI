@@ -22,7 +22,8 @@ Com auxílio dos cursos adquiridos foram desenvolvidos alguns projetos.
 Veja os projetos publicados por mim:
 
 ## Dashboard (Power BI):
-
+  
+- **Dashboard Acidentes nas estradas Federais:** https://bit.ly/3O4R8pn
 - **Dashboard de Suprimentos (Empowerdata):** https://bit.ly/3qLJdCE
 - **Dashboard de Projetos (Empowerdata):** https://bit.ly/3h7KCAo
 - **Dashboard RH (Empowerdata):** https://bityli.com/xfCi1
